@@ -45,7 +45,7 @@ Para ello ha tomado en cuenta el poder desarrollar un sistema para llevar el con
 
 2. Manejo de buenas prácticas y control de errores en estados de peticiones al servidor
 
-3. Flujo y BD utilizado.
+3. Flujo y Base de datos utilizado en MySQL
 
 4. Archivos de programación que se utilizaron (y porque se utilizó ese lenguaje).
 
