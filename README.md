@@ -39,7 +39,7 @@ Para ello ha tomado en cuenta el poder desarrollar un sistema para llevar el con
 
 7.  Saber cuántos hombres y cuantas mujeres recibieron canastas.
 
-**Criterios a evaluar**
+## Criterios a evaluar
 
 1. Utilizar el lenguaje de programación JavaScript con el framework Node js o utilizar php como lenguaje de programación
 
