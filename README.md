@@ -47,7 +47,7 @@ Para ello ha tomado en cuenta el poder desarrollar un sistema para llevar el con
 
 3. Flujo y Base de datos utilizado en MySQL
 
-4. Archivos de programación que se utilizaron (y porque se utilizó ese lenguaje).
+4. Archivos de programación que se utilizaron (y por qué se utilizó ese lenguaje).
 
 5. Funcionalidad del ejercicio práctico.
 
