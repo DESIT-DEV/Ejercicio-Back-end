@@ -6,7 +6,7 @@ La siguiente es una prueba para evaluar a los postulantes a programador Back-end
 
 ## IMPORTANTE
 
-1.  Recomendamos emplear un máximo de  **5 (tres) horas**  y enviar todo lo que puedas.
+1.  Recomendamos emplear un máximo de  ** (5) horas**  y enviar todo lo que puedas.
 2.  Se requiere de una  **cuenta de GitHub**  para realizar este ejercicio.
 3.  **Antes de comenzar a programar:**
     -   Realizar un  `Fork`  de este repositorio https://github.com/DESIT-DEV/Ejercicio-Back-end
