@@ -27,7 +27,7 @@ Para ello ha tomado en cuenta el poder desarrollar un sistema para llevar el con
 
 1. El sistema debe ser accedido únicamente por las personas que estarán encargados en entregar las canastas y el administrador.
 
-2. Se debe garantizar que cada canasta se entre únicamente a una persona (no entregar dos canastas a la misma persona) y debe ser mayor de edad.
+2. Se debe garantizar que cada canasta se entregue únicamente a una persona (no entregar dos canastas a la misma persona) y debe ser mayor de edad.
 
 3. Saber la cantidad de canastas que entrego cada encargado.
 
@@ -35,7 +35,7 @@ Para ello ha tomado en cuenta el poder desarrollar un sistema para llevar el con
 
 5. Tener la posibilidad de editar la información o nombre del beneficiado (por cualquier detalle de ortografía) y además poder eliminarlo al no percatarse de haberlo agregado más de una vez (ya que solo se debe entregar una canasta por persona).
 
-6. Máximo  de canasta a entregar serán 10 por total (evitar que se entregan más).
+6. Máximo  de canastas a entregar serán 10 en total (evitar que se entregen más).
 
 7.  Saber cuántos hombres y cuantas mujeres recibieron canastas.
 
